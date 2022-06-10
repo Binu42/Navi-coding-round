@@ -1,0 +1,4 @@
+export const ADD_NEW_PROJECT = 'ADD_NEW_PROJECT';
+export const ADD_NEW_TASK = 'ADD_NEW_TASK';
+export const DELETE_PROJECT_TASK = 'DELETE_PROJECT_TASK';
+export const DELETE_PROJECT = 'DELETE_PROJECT';
